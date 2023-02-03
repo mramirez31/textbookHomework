@@ -9,6 +9,7 @@
  * on the speed of sound and the time it took for
  * the sound of thunder to reach your ears.
 */
+
 public class SpeedLight {
     public static void main(String[] args){
         int speedOfSound = 340;

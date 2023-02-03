@@ -9,6 +9,7 @@
  * the total of students there are in the school
  * by the total of females that are know to be in the school.
  */
+
 public class MaleStudent {
     public static void main(String[] args){
         int totalStudents = 389;

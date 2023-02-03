@@ -8,6 +8,7 @@
  * and show the difference between the two collection
  * and show who has more stamps than the other.
  */
+
 public class Stamps {
     public static void main(String[] args){
         int susanStamps = 8;

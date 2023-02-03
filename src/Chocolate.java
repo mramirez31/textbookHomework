@@ -8,6 +8,7 @@
  * you put three chocolate bars in one bag instead of two.
  */
 
+
 public class Chocolate {
     public static void main(String[] args){
         int bagOfChocolate = 9;

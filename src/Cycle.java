@@ -11,6 +11,7 @@
  * of tricycles are int the shop.
  */
 
+
 public class Cycle {
     public static void main(String[] args){
         int bicycles = 10;

@@ -8,6 +8,7 @@
  * formula to make a code program to find x by assigning
  * each value an integer to find x.
  */
+
 public class FindX {
     public static void main(String[] args){
         int a = 5;
